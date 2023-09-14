@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h4{
+    color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+}
+h1 {
+    padding: 25px;
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+}
+
+body {
+    background-color: rgb(38, 3, 80);
+    justify-content: center;
+    align-items: center;
+}
+
+#sharma {
+    border: 15px solid red;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 400px; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkEy_4Gmtz8QxmLbGLZohLgtY7B2f3Bpuow&usqp=CAU");
+}
+
+#kl {
+    /* height: 400px; */
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPPto78lfUEDK7amkQJpLRG-v6RNcNe4anA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    border: 15px solid khaki;
+}
+
+#kholi {
+    border: 15px solid grey;
+    /* height: 400px; */
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSHDR2EFg9ydoz1l2trKd3B5BiW45FqqZ0_Q&usqp=CAU");
+}
+
+#gill {
+    border: 15px solid green;
+    color: aqua;
+    /* height: 400px; */
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTnfR88SKcI8-nSPjv4jl7UmGLZvNwaKJS_PNU4gf70T33PBhW5YIvmidyGbgIn214lk&usqp=CAU  ")
+}
+
+#pandya {
+    /* height: 400px; */
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzYn7lvcPXrkE5VIVakkNRwidJskB6h0eDuQ&usqp=CAU");
+    border: 15px solid yellow;
+}
+
+#jadeja {
+    border: 15px solid lemonchiffon;
+    /* height: 400px; */
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEZ5FgDmFr4qYzRoJRvhNxcHRXpGJhuzsdVOAxziH08zNrQzy7iaDhY_FdactyX6ZjJI&usqp=CAU")
+}
+
+#bhumbra {
+    /* height: 400px; */
+    border: 15px solid lightcoral;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDf9phcfeFOdTDBoLSC8ARWgue5dM_UbHeA&usqp=CAU")
+
+}
+
+#shami {
+    /* height: 400px; */
+    border: 15px solid powderblue;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ__kRlze_Rc7Vj4owSa5fBoFAXixRNtD6H9w&usqp=CAU")
+}
+
+#kuldeep {
+    /* height: 400px; */
+    border: 15px solid maroon;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM3riBR95henyb9tLZ4X38tGkPD6CsYHjh1w&usqp=CAU")
+}
+
+#ishan {
+    /* height: 400px; */
+    border: 15px solid sandybrown;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq14FdvNXroXKrtYQ-JX_Y53MHbUHoHt3V5A&usqp=CAU")
+}
+
+#siraj {
+    /* height: 400px; */
+    border: 15px solid gold;
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfm9qPSfwt_GHSmkplnMoM8FRqZrrDZzkh_w&usqp=CAU")
+}
+#dravid{
+    /* height: 400px; */
+    border: 15px solid rgb(253, 55, 29);
+    color: aqua;
+    text-align: center;
+    font-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRbsWzOsSqWdFkUhCnus2FwaF5N0FnwGP8ug&usqp=CAU")
+}
+#images {
+    height: 1000px;
+    width: 1420px;
+    display: grid;
+    border: 25px solid rgb(23, 130, 184);
+    grid-template-areas: 'myArea myArea myArea';
+}
+footer{
+    padding: 30px;
+    color: rgb(72, 142, 203);
+    font-size: 30px;
+    text-align: center;
+}
